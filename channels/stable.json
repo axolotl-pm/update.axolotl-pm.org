@@ -1,15 +1,15 @@
 {
     "php_version": "8.2",
-    "base_version": "5.44.3",
-    "build": 2617,
+    "base_version": "5.46.1",
+    "build": 2306,
     "is_dev": false,
     "channel": "stable",
-    "git_commit": "51c8777b46683d24cfd29fe650205c22c262b678",
-    "mcpe_version": "1.26.30",
-    "date": 1783371370,
-    "details_url": "https://github.com/pmmp/PocketMine-MP/releases/tag/5.44.3",
-    "download_url": "https://github.com/pmmp/PocketMine-MP/releases/download/5.44.3/PocketMine-MP.phar",
-    "source_url": "https://github.com/pmmp/PocketMine-MP/tree/5.44.3",
-    "build_log_url": "https://github.com/pmmp/PocketMine-MP/actions/runs/28822622582",
-    "php_download_url": "https://github.com/pmmp/PHP-Binaries/releases/tag/pm5-php-8.2-latest"
+    "git_commit": "4e74f8db19a30ff15d2e9edae65973b95b4bf2f0",
+    "mcpe_version": "1.26.44",
+    "date": 1787617617,
+    "details_url": "https://github.com/axolotl-pm/PocketMine-MP/releases/tag/5.46.1",
+    "download_url": "https://github.com/axolotl-pm/PocketMine-MP/releases/download/5.46.1/PocketMine-MP.phar",
+    "source_url": "https://github.com/axolotl-pm/PocketMine-MP/tree/5.46.1",
+    "build_log_url": "https://github.com/axolotl-pm/PocketMine-MP/actions/runs/32793608338",
+    "php_download_url": "https://github.com/axolotl-pm/PHP-Binaries/releases/tag/pm5-php-8.2-latest"
 }
