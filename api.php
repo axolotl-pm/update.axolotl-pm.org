@@ -38,7 +38,7 @@ function curl_url($url){
 	return [$output, $headerSize, $error];
 }
 
-$url = "https://raw.githubusercontent.com/pmmp/update.pmmp.io/master/channels/$type.json";
+$url = "https://raw.githubusercontent.com/axolotl-pm/update.axolotl-pm.org/master/channels/$type.json";
 
 list($output, $headerSize, $error) = curl_url($url);
 if($output === false) response_500("Failed to communicate with GitHub");
