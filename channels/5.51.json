@@ -1,0 +1,15 @@
+{
+    "php_version": "8.4",
+    "base_version": "5.51.0",
+    "build": 2324,
+    "is_dev": false,
+    "channel": "stable",
+    "git_commit": "f5e6a67fdf2108cf63196c06db1eb5c0d400d4c8",
+    "mcpe_version": "1.26.60",
+    "date": 1793145606,
+    "details_url": "https://github.com/axolotl-pm/PocketMine-MP/releases/tag/5.51.0",
+    "download_url": "https://github.com/axolotl-pm/PocketMine-MP/releases/download/5.51.0/PocketMine-MP.phar",
+    "source_url": "https://github.com/axolotl-pm/PocketMine-MP/tree/5.51.0",
+    "build_log_url": "https://github.com/axolotl-pm/PocketMine-MP/actions/runs/40605791076",
+    "php_download_url": "https://github.com/axolotl-pm/PHP-Binaries/releases/tag/pm5-php-8.4-latest"
+}
